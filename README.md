@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##
-- 🔭 I’m currently working on my Classes
-- 🌱 I’m currently learning C++ and C#
+- 🔭 I’m currently blank
+- 🌱 I’m currently blank
 - 📫 How to reach me: austrasas@gmail.com
 ##
